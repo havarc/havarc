@@ -5,9 +5,9 @@ Currently looking for a job, preferably remote, 30h, can program anything from C
 
 Will clean, rewrite and document any legacy project you have laying around.
 
-Languages I like: Javascript, python, Ruby, C/C++, (I should get into rust!)
+Languages I like: Javascript (see Showcase), python, Ruby, C/C++, (I really should get into rust!)
 
-Languages I'm allergic to: Java and anything MS has ever touched
+Languages I'm allergic to: Java and anything Microsoft has ever touched
 
 <!---
 havarc/havarc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
