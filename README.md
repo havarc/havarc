@@ -1,7 +1,3 @@
-The only good goal is to make someone elses life easier (quote: me)
-
-Just imagine everyone living by that goal.
-
 
 Hi, I’m @havarc, tech support guy and general purpose programmer.
 
