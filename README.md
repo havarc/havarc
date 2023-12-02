@@ -9,6 +9,9 @@ Languages I like: Javascript, python, Ruby, C/C++, (I really should get into rus
 
 Languages I'm allergic to: Java and anything Microsoft has ever touched
 
+Certificates:
+https://www.freecodecamp.org/havarc
+
 <!---
 havarc/havarc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
